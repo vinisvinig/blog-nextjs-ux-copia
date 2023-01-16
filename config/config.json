@@ -1,0 +1,28 @@
+{
+  "site": {
+    "title": "UXs da GSD | Blog",
+    "base_url": "/",
+    "favicon": "/images/logo-v.png",
+    "logo": "/images/logo.gif",
+    "logo_width": "200",
+    "logo_height": "34",
+    "logo_text": "Bookworm Light"
+  },
+
+  "settings": {
+    "pagination": 3,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "params": {
+    "tag_manager_id": "",
+    "copyright": "Copyright © 2022 a ..."
+  },
+
+  "metadata": {
+    "meta_author": "Vinícius Souza Girardi",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Bem-vindo ao nosso novo blog, onde profissionais estão abertos para divulgar seu trabalho, desde artigos, conteúdos ou até mesmo uma receita de bolo. Tudo isso de forma gratuita."
+  }
+}
